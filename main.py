@@ -1,13 +1,4 @@
-"""
- # Edith Cowan university -
- # Assigment 02 original_1
- # Student name & ID - Isuru Sankhajith - 10597808
- # Below mentioned link included all files
- # @https://drive.google.com/drive/folders/1AtHkdtdHC1Pdz3H1jrnD9uwQSoIZrjep?usp=sharing
 
-"""
-
-# Question_01 Array sorting algorithm: design, implementation and analysis
 
 #### 01_bubble_sort #########################################################################
 
